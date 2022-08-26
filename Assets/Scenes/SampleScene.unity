@@ -425,7 +425,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1893863842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5dcd7316150c80d438911fc88fdd69f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Resolution: {x: 512, y: 512}
+  Resolution: {x: 200, y: 200}
   HeightMap: {fileID: 2800000, guid: 2fa1d6e8ce2874844992875274385c76, type: 3}
   PolygonSize: 1
   ElevationFactor: 100
